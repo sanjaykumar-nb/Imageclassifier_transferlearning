@@ -31,3 +31,5 @@ The model utilizes "Transfer Learning" with a "ResNet34" backbone to accurately 
 📌 **Load the model** and classify images instantly <br>
 📌 **Supports deployment** in web apps or mobile applications <br>
 📌 **Can be extended** to classify more animal categories <br>
+
+**Accuracy 82.96%**
