@@ -1,4 +1,4 @@
-**🐾 Animal Image Classifier - ResNet34**<br><br>
+**🐾 Animal Image Classifier - ResNet18**<br><br>
 **📌 Project Overview**<br>
 This project is a deep learning-based "animal image classifier" trained using the **Animals-90 dataset**. <br>
 The model utilizes "Transfer Learning" with a "ResNet34" backbone to accurately classify images into one of "90 different animal categories". <br>
